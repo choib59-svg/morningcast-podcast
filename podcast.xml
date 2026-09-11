@@ -19,9 +19,9 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 11 Sep 2026 12:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:10:57 +0000</lastBuildDate>
     <item>
-      <title>MorningCast du 11/09/2026 (Actualisé)</title>
+      <title>MorningCast du 11/09/2026 [2m31]</title>
       <description>=== CHRONIQUE MATINALE - VENDREDI 11 SEPTEMBRE 2026 ===
 Direction du jour : Direction le Bureau à Courcelles
 Motivation : Réunion(s) prévues à Courcelles ou sur site : direction le Bureau à Courcelles.
@@ -31,7 +31,8 @@ Salut Chris, bienvenue dans ton morning cast du Vendredi 11 septembre 2026 ! Pr�
       <pubDate>Fri, 11 Sep 2026 14:05:11 +0200</pubDate>
       <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20260911.mp3" length="909963" type="audio/mpeg"/>
       <guid isPermaLink="false">morningcast-20260911-1789128311</guid>
-      <itunes:title>MorningCast du 11/09/2026 (Actualisé)</itunes:title>
+      <itunes:title>MorningCast du 11/09/2026 [2m31]</itunes:title>
+      <itunes:duration>151</itunes:duration>
       <itunes:summary>=== CHRONIQUE MATINALE - VENDREDI 11 SEPTEMBRE 2026 ===
 Direction du jour : Direction le Bureau à Courcelles
 Motivation : Réunion(s) prévues à Courcelles ou sur site : direction le Bureau à Courcelles.
@@ -42,7 +43,7 @@ Salut Chris, bienvenue dans ton morning cast du Vendredi 11 septembre 2026 ! Pr�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>MorningCast du 10/09/2026 (Actualisé)</title>
+      <title>MorningCast du 10/09/2026 [2m48]</title>
       <description>=== CHRONIQUE MATINALE - JEUDI 10 SEPTEMBRE 2026 ===
 Direction du jour : Direction le Bureau à Courcelles
 Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
@@ -52,7 +53,8 @@ Bonjour et bienvenue dans votre MorningCast du Jeudi 10 septembre 2026 ! Voici v
       <pubDate>Thu, 10 Sep 2026 19:15:46 +0200</pubDate>
       <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20260910.mp3" length="1014468" type="audio/mpeg"/>
       <guid isPermaLink="false">morningcast-20260910-1789060546</guid>
-      <itunes:title>MorningCast du 10/09/2026 (Actualisé)</itunes:title>
+      <itunes:title>MorningCast du 10/09/2026 [2m48]</itunes:title>
+      <itunes:duration>168</itunes:duration>
       <itunes:summary>=== CHRONIQUE MATINALE - JEUDI 10 SEPTEMBRE 2026 ===
 Direction du jour : Direction le Bureau à Courcelles
 Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
