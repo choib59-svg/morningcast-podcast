@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 16 Sep 2026 02:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:32:30 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 17/09/2026 [5m04]</title>
+      <description>=== CHRONIQUE MATINALE - JEUDI 17 SEPTEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 17 septembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Cou...</description>
+      <pubDate>Thu, 17 Sep 2026 04:32:24 +0200</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20260917.mp3" length="1831764" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20260917-1789612344</guid>
+      <itunes:title>MorningCast du 17/09/2026 [5m04]</itunes:title>
+      <itunes:duration>304</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - JEUDI 17 SEPTEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 17 septembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Cou...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 16/09/2026 [6m15]</title>
       <description>=== CHRONIQUE MATINALE - MERCREDI 16 SEPTEMBRE 2026 ===
