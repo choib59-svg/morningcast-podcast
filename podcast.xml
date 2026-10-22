@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 21 Oct 2026 02:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:31:56 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 22/10/2026 [6m31]</title>
+      <description>=== CHRONIQUE MATINALE - JEUDI 22 OCTOBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 22 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcel...</description>
+      <pubDate>Thu, 22 Oct 2026 04:31:50 +0200</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261022.mp3" length="2351836" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20261022-1792636310</guid>
+      <itunes:title>MorningCast du 22/10/2026 [6m31]</itunes:title>
+      <itunes:duration>391</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - JEUDI 22 OCTOBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 22 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcel...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 21/10/2026 [6m43]</title>
       <description>=== CHRONIQUE MATINALE - MERCREDI 21 OCTOBRE 2026 ===
@@ -83,28 +105,6 @@ Motivation : Réunion(s) prévues à Courcelles ou sur site : direction le Burea
 
 --- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
 Salut Chris, bienvenue dans ton morning cast du Vendredi 16 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcelles...</itunes:summary>
-      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>MorningCast du 14/10/2026 [6m35]</title>
-      <description>=== CHRONIQUE MATINALE - MERCREDI 14 OCTOBRE 2026 ===
-Direction du jour : Direction le Bureau à Courcelles
-Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 14 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à C...</description>
-      <pubDate>Wed, 14 Oct 2026 08:50:37 +0200</pubDate>
-      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261014.mp3" length="2377349" type="audio/mpeg"/>
-      <guid isPermaLink="false">morningcast-20261014-1791960637</guid>
-      <itunes:title>MorningCast du 14/10/2026 [6m35]</itunes:title>
-      <itunes:duration>395</itunes:duration>
-      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 14 OCTOBRE 2026 ===
-Direction du jour : Direction le Bureau à Courcelles
-Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 14 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à C...</itunes:summary>
       <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
