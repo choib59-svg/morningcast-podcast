@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 26 Oct 2026 03:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:31:52 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 28/10/2026 [6m41]</title>
+      <description>=== CHRONIQUE MATINALE - MERCREDI 28 OCTOBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Réunion(s) prévues à Courcelles ou sur site : direction le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 28 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcelles...</description>
+      <pubDate>Wed, 28 Oct 2026 04:31:46 +0100</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261028.mp3" length="2411079" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20261028-1793158306</guid>
+      <itunes:title>MorningCast du 28/10/2026 [6m41]</itunes:title>
+      <itunes:duration>401</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 28 OCTOBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Réunion(s) prévues à Courcelles ou sur site : direction le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 28 octobre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcelles...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 26/10/2026 [7m35]</title>
       <description>=== CHRONIQUE MATINALE - LUNDI 26 OCTOBRE 2026 ===
