@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 09 Nov 2026 03:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:33:08 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 11/11/2026 [7m38]</title>
+      <description>=== CHRONIQUE MATINALE - MERCREDI 11 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 11 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</description>
+      <pubDate>Wed, 11 Nov 2026 04:33:01 +0100</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261111.mp3" length="2755727" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20261111-1794367981</guid>
+      <itunes:title>MorningCast du 11/11/2026 [7m38]</itunes:title>
+      <itunes:duration>458</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 11 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 11 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 09/11/2026 [6m37]</title>
       <description>=== CHRONIQUE MATINALE - LUNDI 9 NOVEMBRE 2026 ===
@@ -83,28 +105,6 @@ Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers 
 
 --- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
 Salut Chris, bienvenue dans ton morning cast du Jeudi 5 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courcel...</itunes:summary>
-      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>MorningCast du 04/11/2026 [6m32]</title>
-      <description>=== CHRONIQUE MATINALE - MERCREDI 4 NOVEMBRE 2026 ===
-Direction du jour : Direction à confirmer
-Motivation : Attention, direction à confirmer : aucun emplacement explicite vers Fretin ou Courcelles n'a été détecté. Ta première réunion est prévue à 10h30 sans lieu précis mentionné (prod porte à barder). Pense à vérifier ton lieu de rendez-vous ce matin.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 4 novembre 2026 ! Prêt pour attaquer cette ...</description>
-      <pubDate>Wed, 04 Nov 2026 04:32:01 +0100</pubDate>
-      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261104.mp3" length="2357746" type="audio/mpeg"/>
-      <guid isPermaLink="false">morningcast-20261104-1793763121</guid>
-      <itunes:title>MorningCast du 04/11/2026 [6m32]</itunes:title>
-      <itunes:duration>392</itunes:duration>
-      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 4 NOVEMBRE 2026 ===
-Direction du jour : Direction à confirmer
-Motivation : Attention, direction à confirmer : aucun emplacement explicite vers Fretin ou Courcelles n'a été détecté. Ta première réunion est prévue à 10h30 sans lieu précis mentionné (prod porte à barder). Pense à vérifier ton lieu de rendez-vous ce matin.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 4 novembre 2026 ! Prêt pour attaquer cette ...</itunes:summary>
       <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
