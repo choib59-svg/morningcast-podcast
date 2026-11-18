@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 16 Nov 2026 03:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:33:26 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 18/11/2026 [8m02]</title>
+      <description>=== CHRONIQUE MATINALE - MERCREDI 18 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 18 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</description>
+      <pubDate>Wed, 18 Nov 2026 04:33:19 +0100</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261118.mp3" length="2898862" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20261118-1794972799</guid>
+      <itunes:title>MorningCast du 18/11/2026 [8m02]</itunes:title>
+      <itunes:duration>482</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 18 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Mercredi 18 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 16/11/2026 [7m09]</title>
       <description>=== CHRONIQUE MATINALE - LUNDI 16 NOVEMBRE 2026 ===
@@ -61,28 +83,6 @@ Motivation : Attention, direction à confirmer : aucun emplacement explicite ver
 
 --- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
 Salut Chris, bienvenue dans ton morning cast du Jeudi 12 novembre 2026 ! Prêt pour attaquer cette bell...</itunes:summary>
-      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>MorningCast du 11/11/2026 [7m38]</title>
-      <description>=== CHRONIQUE MATINALE - MERCREDI 11 NOVEMBRE 2026 ===
-Direction du jour : Direction le Bureau à Courcelles
-Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 11 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</description>
-      <pubDate>Wed, 11 Nov 2026 04:33:01 +0100</pubDate>
-      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261111.mp3" length="2755727" type="audio/mpeg"/>
-      <guid isPermaLink="false">morningcast-20261111-1794367981</guid>
-      <itunes:title>MorningCast du 11/11/2026 [7m38]</itunes:title>
-      <itunes:duration>458</itunes:duration>
-      <itunes:summary>=== CHRONIQUE MATINALE - MERCREDI 11 NOVEMBRE 2026 ===
-Direction du jour : Direction le Bureau à Courcelles
-Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
-
---- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
-Salut Chris, bienvenue dans ton morning cast du Mercredi 11 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à...</itunes:summary>
       <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
