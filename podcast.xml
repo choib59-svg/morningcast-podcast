@@ -19,7 +19,29 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 18 Nov 2026 03:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:32:05 +0000</lastBuildDate>
+    <item>
+      <title>MorningCast du 19/11/2026 [6m31]</title>
+      <description>=== CHRONIQUE MATINALE - JEUDI 19 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 19 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courc...</description>
+      <pubDate>Thu, 19 Nov 2026 04:31:59 +0100</pubDate>
+      <enclosure url="https://choib59-svg.github.io/morningcast-podcast/episodes/episode_20261119.mp3" length="2354286" type="audio/mpeg"/>
+      <guid isPermaLink="false">morningcast-20261119-1795059119</guid>
+      <itunes:title>MorningCast du 19/11/2026 [6m31]</itunes:title>
+      <itunes:duration>391</itunes:duration>
+      <itunes:summary>=== CHRONIQUE MATINALE - JEUDI 19 NOVEMBRE 2026 ===
+Direction du jour : Direction le Bureau à Courcelles
+Motivation : Aucune réunion planifiée aujourd'hui : direction habituelle vers le Bureau à Courcelles.
+
+--- 1. INTRODUCTION &amp; DIRECTION DU JOUR ---
+Salut Chris, bienvenue dans ton morning cast du Jeudi 19 novembre 2026 ! Prêt pour attaquer cette belle journée ? On commence tout de suite par l'information essentielle de ce matin pour tes trajets et ton organisation : Direction le Bureau à Courc...</itunes:summary>
+      <itunes:image href="https://choib59-svg.github.io/morningcast-podcast/podcast_cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MorningCast du 18/11/2026 [8m02]</title>
       <description>=== CHRONIQUE MATINALE - MERCREDI 18 NOVEMBRE 2026 ===
